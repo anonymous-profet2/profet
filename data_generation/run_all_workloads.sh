@@ -8,7 +8,7 @@ BATCH_SIZE=$3
 # Define 95 Different DL Jobs
 
 # LeNet5
-JOB_DIR1="/root/profet/data_generation/workload/profile_workload.py --model LeNet5 --dataset 32 --prof_or_latency $PROF_MODE --instance_type $INSTANCE_TYPE"
+JOB_DIR1="/root/profet/data_generation/workload/profile_workload.py --model LeNet5 --dataset 32 --prof_or_latency $PROF_MODE --instance_type $INSTANCE_TYPE --batch_size $BATCH_SIZE"
 JOB_DIR2="/root/profet/data_generation/workload/profile_workload.py --model LeNet5 --dataset 64 --prof_or_latency $PROF_MODE --instance_type $INSTANCE_TYPE"
 JOB_DIR3="/root/profet/data_generation/workload/profile_workload.py --model LeNet5 --dataset 128 --prof_or_latency $PROF_MODE --instance_type $INSTANCE_TYPE"
 JOB_DIR4="/root/profet/data_generation/workload/profile_workload.py --model LeNet5 --dataset 224 --prof_or_latency $PROF_MODE --instance_type $INSTANCE_TYPE"
