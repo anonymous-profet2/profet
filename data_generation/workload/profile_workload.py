@@ -9,7 +9,9 @@ import numpy as np
 
 import dataset_info
 import model_info
-
+import os
+os.environ["CUDA_DEVICE_ORDER"]="PCI_BUS_ID"
+os.environ["CUDA_VISIBLE_DEVICES"]="0"
 # Check num of gpus
 gpus = tf.config.experimental.list_physical_devices('GPU')
 num_gpus = len(gpus)
