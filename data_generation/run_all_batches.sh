@@ -1,5 +1,5 @@
 #!bin/bash
-INSTANCE_TYPE=$1
+INSTANCE_TYPE="EC2"
 
 sudo bash /root/profet/data_generation/run_all_workloads.sh $INSTANCE_TYPE profiling 16
 sudo bash /root/profet/data_generation/run_all_workloads.sh $INSTANCE_TYPE profiling 32
