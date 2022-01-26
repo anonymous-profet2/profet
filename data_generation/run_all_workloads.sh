@@ -143,21 +143,21 @@ JOB_DIR95="/root/profet/data_generation/workload/profile_workload.py --model Mob
 # Get profile result
 sudo -i -u root bash << EOF
 python3.6 $JOB_DIR1 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR2 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR3 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR4 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR5 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR6 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR7 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR8 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR9 --batch_size $BATCH_SIZE
 sleep 2
 python3.6 $JOB_DIR10 --batch_size $BATCH_SIZE
