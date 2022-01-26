@@ -159,177 +159,177 @@ sleep 5
 python3.6 $JOB_DIR8 --batch_size $BATCH_SIZE
 sleep 5
 python3.6 $JOB_DIR9 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR10 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR11 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR12 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR13 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR14 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR15 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR16 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR17 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR18 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR19 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR20 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR21 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR22 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR23 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR24 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR25 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR26 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR27 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR28 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR29 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR30 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR31 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR32 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR33 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR34 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR35 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR36 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR37 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR38 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR39 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR40 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR41 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR42 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR43 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR44 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR45 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR46 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR47 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR48 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR49 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR50 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR51 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR52 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR53 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR54 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR55 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR56 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR57 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR58 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR59 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR60 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR61 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR62 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR63 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR64 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR65 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR66 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR67 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR68 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR69 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR70 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR71 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR72 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR73 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR74 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR75 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR76 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR77 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR78 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR79 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR80 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR81 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR82 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR83 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR84 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR85 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR86 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR87 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR88 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR89 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR90 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR91 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR92 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR93 --batch_size $BATCH_SIZfE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR94 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 python3.6 $JOB_DIR95 --batch_size $BATCH_SIZE
-sleep 2
+sleep 5
 EOF
